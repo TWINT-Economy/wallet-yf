@@ -15,11 +15,19 @@ There will be a maximum of 300'000 TWT tokens.
 67% of the Supply will get sold during the presale. ( 201'000)
 
 Presale Details
+
 The presale will start 03.09.2020 at 18:00 (UTC)
+
 Presale will be conducted in 3 rounds of 100 ETH each.
+
 Hardcap (~130.000 USD)
+
 • Both rounds will have a time limit of 2 hours or will end as soon as the hard cap is reached.
+
 • The amount of ETH collected the presale rounds will be used as the initial liquidity on Uniswap.
+
 • The unsold tokens in each round will be burned. Example: When 1000 TWT tokens of round 1 are not sold in 2 hours, then these 1000 tokens will be sent to the 0x000 burning contract.
+
 • The first round starts with 720 TWT per ETH. After the first round reaches the cap, the second round will be reduced to 660 TWT per ETH. The third and last round of the presale will reduced to 630 TWT per ETH.
+
 TWT will be listed on Uniswap starting by 350 TWT per ETH. Listing will occur 1–2 hours after the pre-sale is sold out. All liquidity is gonna be locked with the Unicrypt Network.
